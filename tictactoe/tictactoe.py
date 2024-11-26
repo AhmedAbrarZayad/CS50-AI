@@ -1,5 +1,6 @@
 """
 Tic Tac Toe Player
+coded by AhmedAbrarZayad (dedseczayad)
 """
 import math
 import copy
